@@ -19,3 +19,4 @@ else
   fi
 fi
 echo "##########################"
+ls /etc/passwd
