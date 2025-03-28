@@ -20,3 +20,4 @@ else
 fi
 echo "##########################"
 ls /etc/passwd
+echo "introducing git class"
