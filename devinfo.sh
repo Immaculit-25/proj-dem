@@ -1,1 +1,4 @@
 
+w
+top
+echo
